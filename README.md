@@ -1,2 +1,2 @@
 # html-portfolio-page
-A command-line tool that generates a HTML portfolio page per user input.
+09 NodeJS Mini Project: A command-line tool that generates a HTML portfolio page per user input.
